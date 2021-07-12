@@ -8,3 +8,13 @@ O React também inaugura o conceito de programação reativa em frontend. Que ba
 
 Para isso, o React usa uma arquitetura de componentes. Grande parte da programação em React está em saber dividir bem uma página em componentes e fazê-los de forma reutilizável e que admita composição com outros componentes.
 */
+
+/* Aula 02 - Indtrodução aos Componentes 
+
+Componentes podem ser entendidos como as "partes" de uma página e podem ser compostos por outros componentes.
+
+Componentes podem ser criados de duas formas:
+1 - Por funções, chamados de componentes funcionais
+2 - Por classes, que chamaremos de "componentes tipo classe" 
+
+*/
