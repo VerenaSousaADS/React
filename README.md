@@ -56,3 +56,16 @@ Para inserir ou modificar informações é preciso usar o método onChange, não
 
 Capturamos o evento HTML pelo target
 </p>
+
+<p>
+
+Aula 07 - Renderização Condicional
+
+A variável nome na aplicação se torna undefined para que seja atribuído um valor a ela apenas depois de clicar no botão salvar.
+Em txtNome é gravada as alterações no campo nome.
+A função changeTxtNome altera o valor inicial da variável nome para o valor digitado no input, já a função persistTxtNome mantém esse valor alterado dentro da variavel nome.
+
+Finalmente é feito o retorno condicional.
+
+
+</p>
