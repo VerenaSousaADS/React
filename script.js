@@ -18,3 +18,14 @@ Componentes podem ser criados de duas formas:
 2 - Por classes, que chamaremos de "componentes tipo classe" 
 
 */
+
+/* Aula 03 - Instalação 
+
+Para a aplicação funcionar é preciso startala direto na página do projeto, para isso use os seguintes comandos
+
+cd pagina_do_projeto/  ///Utilize o comando cd e logo após insira o nome da página do projeto
+
+yarn start   /// Esse comando inicializa o  servidor
+
+
+*/
