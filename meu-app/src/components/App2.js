@@ -5,6 +5,7 @@ class App2 extends React.Component{
     constructor(props){ /* Propriedades do componente */
         super(props);
     }
+
     render(){
         return(
             <div className="box">

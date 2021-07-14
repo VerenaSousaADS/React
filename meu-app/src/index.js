@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 // import App from './components/App';
 import App2 from './components/App2';
+import App3 from './components/App3';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
@@ -13,6 +14,8 @@ ReactDOM.render(
     <App2 title="Título2"> {/* Possibilita a reutilização do código */}
     Conteúdo2
     </App2>
+
+    <App3/> {/* Chamar as aplicações */}
   </React.StrictMode>,
   document.getElementById('root')
 );

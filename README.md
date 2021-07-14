@@ -40,3 +40,19 @@ Aula 04 - Componentes Simples
 <p>
 Aula 05 - Props
 </p>
+
+<p>
+Aula 06 - Estado
+
+Estado era o termo utilizado para denominar as máquinas precursoras do computador moderno. 
+
+Exemplo de estado: um interruptor possui dois estados ligado e desligado
+
+Em computação existem extensa variedade de estados, não precisamos pensar na quantidade de estados, mas sim em modificar e armazenar o estado atual do componente.
+
+Todas as modificações no estado devem ser feitas pelo método setState.
+
+Para inserir ou modificar informações é preciso usar o método onChange, não se esquecendo de instanciá-lo.
+
+Capturamos o evento HTML pelo target
+</p>
