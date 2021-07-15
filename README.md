@@ -66,6 +66,15 @@ Em txtNome é gravada as alterações no campo nome.
 A função changeTxtNome altera o valor inicial da variável nome para o valor digitado no input, já a função persistTxtNome mantém esse valor alterado dentro da variavel nome.
 
 Finalmente é feito o retorno condicional.
+</p>
 
+<p>
+Aula 08 - Ciclo de Vida
 
+O método componentDidMount é executado logo após a criação do componente.
+Lembrando que alguns métodos serão depreciados do React, ou seja, não serão mais utilizado em versões posteriores
+
+Nessa aula com a utilização do componentDidMount, buscamos as informações salvas nos coockies do navegador, e caso a existência da informação retorne true, é retornada o que está prensente no estado da aplicação.
+
+Essa informação é salva na função persistTxtNome no cache do navegador.
 </p>
