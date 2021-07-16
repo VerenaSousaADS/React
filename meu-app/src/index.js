@@ -6,7 +6,9 @@ import ReactDOM from 'react-dom';
 // import App4 from './components/App4';
 // import App5 from './components/App5';
 // import Lista from './components/Lista';
-import {Lista2, Item} from './components/Lista2';
+// import {Lista2, Item} from './components/Lista2';
+import Formulario from './components/Formulario';
+
 
 
 
@@ -33,7 +35,7 @@ ReactDOM.render(
 
     {/* <Lista/> */}
 
-    <Lista2>
+    {/* <Lista2>
       Texto 1
       <Item key={999} id={999} completo={false}>
         Teste1
@@ -41,7 +43,12 @@ ReactDOM.render(
       <Item key={998} id={998} completo={true}>
         Teste2
       </Item>
-    </Lista2>
+    </Lista2> */}
+
+    <Formulario>
+      
+    </Formulario>  
+
     
   </React.StrictMode>,
   document.getElementById('root')
