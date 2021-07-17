@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-/* Aula 02 - Hook de Efeito */
+/* Aula 03 - Hook de Efeito */
 export default function App7(){
     const [nome, setNome] = useState(undefined); //Escreva o nome do estado e utilize set com o nome do estado. // Se chama desestruturação
     /* const [pessoa, setPessoa] = useState({nome: 'Verena', idade: 25}) */
