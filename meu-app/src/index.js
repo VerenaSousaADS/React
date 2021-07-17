@@ -8,7 +8,9 @@ import ReactDOM from 'react-dom';
 // import Lista from './components/Lista';
 // import {Lista2, Item} from './components/Lista2';
 // import Formulario from './components/Formulario';
-import Hello from './components/Hello';
+// import Hello from './components/Hello';
+import App6 from './components/App6';
+
 
 
 
@@ -51,11 +53,12 @@ ReactDOM.render(
       
     </Formulario>  */} 
 
-    <Hello text="Hello world!">
+   {/*  <Hello text="Hello world!">
      
-    </Hello>
+    </Hello> */}
 
-    
+    <App6/>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
