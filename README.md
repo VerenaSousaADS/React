@@ -81,7 +81,7 @@ Nessa aula com a utilização do componentDidMount, buscamos as informações sa
 Essa informação é salva na função persistTxtNome no cache do navegador.
 </p>
 
-<h1> Módulo 04 - React _ Componentes Funcionais </h1>
+<h3> Módulo 04 - React _ Componentes Funcionais </h3>
 
 <p> <strong> Aula 01 - Introdução a Componentes Funcionais </strong> 
 

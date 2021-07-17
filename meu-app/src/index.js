@@ -7,7 +7,9 @@ import ReactDOM from 'react-dom';
 // import App5 from './components/App5';
 // import Lista from './components/Lista';
 // import {Lista2, Item} from './components/Lista2';
-import Formulario from './components/Formulario';
+// import Formulario from './components/Formulario';
+import Hello from './components/Hello';
+
 
 
 
@@ -45,9 +47,13 @@ ReactDOM.render(
       </Item>
     </Lista2> */}
 
-    <Formulario>
+   {/*  <Formulario>
       
-    </Formulario>  
+    </Formulario>  */} 
+
+    <Hello text="Hello world!">
+     
+    </Hello>
 
     
   </React.StrictMode>,
