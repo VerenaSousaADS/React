@@ -100,6 +100,8 @@ E por esses motivos eram usados apenas para coisas mais simples no React. No ent
 Hooks são uma nova adição no React 16.8. Eles permitem que você use o state e outros recursos do React sem escrever uma classe.
 
 </blockquote>
+<blockquote>
+
 <q>
 O hook de estado é chamado de useState() precisamos importá-lo de dentro do React antes de poder utilizá-lo em nossos componentes.
 
@@ -108,4 +110,6 @@ useState é uma função que produz um vetor, na primeira posição vem uma refe
 nunca faça atribuições ao estado diretamente, sempre utilize a função. Senão o React não atualizará o componente para mostrar a mudança na tela.
 Para garantir que esse erro não aconteça, sempre use const antes de desestruturar o useState nunca use let.
 </q>
+
+</blockquote>
 </p>
