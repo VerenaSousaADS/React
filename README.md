@@ -1,5 +1,7 @@
 ## React  - Componentes Tipo Classe
 
+## React - Componentes Funcionais
+
 <p> Bolsa Santander Let's Code </p>
 
 <p> Aula 01 - Introdução ao React 
@@ -77,4 +79,16 @@ Lembrando que alguns métodos serão depreciados do React, ou seja, não serão 
 Nessa aula com a utilização do componentDidMount, buscamos as informações salvas nos coockies do navegador, e caso a existência da informação retorne true, é retornada o que está prensente no estado da aplicação.
 
 Essa informação é salva na função persistTxtNome no cache do navegador.
+</p>
+
+<h1> Módulo 04 - React _ Componentes Funcionais </h1>
+
+<p> <strong> Aula 01 - Introdução a Componentes Funcionais </strong> 
+
+<blockquote>
+Os componentes funcionais eram considerados os "componentes burros" do React, eles eram componentes simplificados que só tinham props e renderizavam html na tela. Eles não eram capazes de ter estado, e portanto de realizar alterações de estado. Não tinham os métodos de ciclo de vida, o que não permitia que coletassem dados externamente, o que chamamos na programação funcional de efeitos colaterais (side effects).
+
+E por esses motivos eram usados apenas para coisas mais simples no React. No entanto, nas últimas atualizações da biblioteca, eles foram revistos e o React introduziu o conceito de Hooks, os hooks permitem aos componentes funcionais terem estado, efeitos, modificar seu estado e uma série de outras capacidades.
+</blockquote>
+
 </p>
