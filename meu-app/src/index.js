@@ -9,7 +9,9 @@ import ReactDOM from 'react-dom';
 // import {Lista2, Item} from './components/Lista2';
 // import Formulario from './components/Formulario';
 // import Hello from './components/Hello';
-import App6 from './components/App6';
+// import App6 from './components/App6';
+import App7 from './components/App7';
+
 
 
 
@@ -57,7 +59,10 @@ ReactDOM.render(
      
     </Hello> */}
 
-    <App6/>
+    {/* <App6/> */}
+
+    <App7/>
+
 
   </React.StrictMode>,
   document.getElementById('root')
